@@ -4,12 +4,16 @@ Created a simple calculator using HTML, CSS, and JavaScript. The user-friendly i
 Technologies Used:
 
 HTML
+
 CSS
+
 JavaScript
 
 Features:
 
 Addition, subtraction, multiplication, and division functions
+
 Clear and intuitive user interface
+
 
 A straightforward yet effective project showcasing front-end development capabilities with a practical application for everyday use.
